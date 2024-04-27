@@ -1,0 +1,2 @@
+0 dry_waste
+1 wet_waste
